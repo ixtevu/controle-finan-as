@@ -2,7 +2,7 @@
 
 # Controle Finanças
 
-Aplicação desenvolvida em **Flutter** para auxiliar no controlo e gestão financeira do dia a dia, utilizando armazenamento local com **SQLite**.
+Aplicação desenvolvida em **Flutter** para auxiliar no controle e gestão financeira do dia a dia, utilizando armazenamento local com **SQLite**.
 
 ## 🚀 Funcionalidades
 - Registo de receitas e despesas.
