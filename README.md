@@ -1,6 +1,6 @@
 ﻿
 
-# Controle Finanças
+# Controle de Finanças
 
 Aplicação desenvolvida em **Flutter** para auxiliar no controle e gestão financeira do dia a dia, utilizando armazenamento local com **SQLite**.
 
